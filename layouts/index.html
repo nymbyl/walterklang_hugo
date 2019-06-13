@@ -1,0 +1,13 @@
+{{ define "navigation" }}
+  {{ partial "navigation" (dict "current" "home")}}
+{{ end }}
+
+{{ define "content" }}
+
+<div class="jumbotron">
+  <h1 class="display-4">{{ .Site.Title}}</h1>
+</div>
+
+{{ .Content }}
+
+{{ end }}

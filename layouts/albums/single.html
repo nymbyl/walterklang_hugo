@@ -1,0 +1,58 @@
+{{ define "navigation" }}
+  {{ partial "navigation" (dict "current" "albums") }}
+{{ end }}
+
+{{ define "content" }}
+<h2>
+<a href="/albums">Album</a> : {{ .Title }}
+</h2>
+              
+      {{ $related := where (.Site.RegularPages.RelatedIndices . "songs") "Type" "songs" }}
+
+      <ol class="list-group">            
+      {{ with $related }}
+        {{ range .ByParam "weight" }}
+        <li class="list-group-item">
+            <div>
+                <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+
+                {{ $recordings := where (.Site.RegularPages.RelatedTo ( keyVals "songs" .Params.Songs)) "Type" "recordings" }}
+
+                {{ with $recordings }}
+                {{ range .}}
+                <div>
+                    <h4>{{ .Title }}-{{ .Date.Format "2006-01-02" }}</h4>
+        
+                    {{ $mixes := where (.Site.RegularPages.RelatedIndices . "mixes") "Type" "mixes" }}
+
+                    {{ with $mixes }}
+
+                    <ul class="list-group">
+                            {{ range .}}
+                            <li class="list-group-item">
+                            <a href="/mp3/{{ .Params.folder }}/{{ .Params.filename }}">
+                              <span {{ if .Params.definitive }} class="border border-info"{{ end }}>
+                                  {{ .Params.filename }}
+                              </span>
+                            </a>
+                            {{ if .Params.best }}
+                            <span class="badge badge-primary">Best</span>
+                            {{ end }}
+                          </li>
+                           {{ end }} <!-- end mix range -->
+                          </ul>
+                          {{ end }} <!-- end with mixes -->
+
+                {{ end }} <!-- end range recordings -->
+                {{ end }} <!-- end with recordings -->
+                
+            </div>
+          
+        </li>
+        {{ end }}
+      {{ end }}
+      </ol>
+
+{{ end }}
+
+         

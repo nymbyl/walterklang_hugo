@@ -1,0 +1,38 @@
+{{ define "navigation" }}
+  {{ partial "navigation" (dict "current" "recordings") }}
+{{ end }}
+
+{{ define "content" }}
+<h2>Recordings</h2>
+
+<div>Total Count: {{ len .Data.Pages }}</div>
+<table class="table table-striped table-bordered table-sm">
+      <thead>
+        <tr>
+          <th>Title</th>
+          <th>Date</th>
+          <th>Song</th>
+          <th>Rating</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range .Pages }}
+        <tr>
+            <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
+            <td>{{ .Date.Format "2006-01-02" }}</td>
+            <td>
+                {{ $related := where (.Site.RegularPages.RelatedIndices . "songs") "Type" "songs" }}
+                {{ with $related }}
+                {{ range . }}
+                  <span><a href="{{ .Permalink }}">{{ .Title }}</a></span>
+                {{ end }}
+                {{ end }}
+            </td>
+            <td>{{ .Params.Rating }}</td>
+        </tr>
+        {{ end }}
+      </tbody>
+
+    </table>
+{{ end }}
+

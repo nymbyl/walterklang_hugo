@@ -1,0 +1,25 @@
+{{ define "navigation" }}
+  {{ partial "navigation" (dict "current" "sessions") }}
+{{ end }}
+
+{{ define "content" }}
+
+  <h2>Sessions</h2>
+  <div>Total Count: {{ len .Data.Pages }}</div>
+
+  <ul class="list-group">
+{{ range .Data.Pages.ByDate.Reverse }}
+  <li class="list-group-item d-flex justify-content-between align-items-center">
+      <a href="{{ .Permalink }}">
+          {{ .Title }}
+      </a>
+    {{ $related := where (.Site.RegularPages.RelatedIndices . "session") "Type" "days" }}
+    <span class="badge badge-primary badge-pill">
+        {{ len $related }}&nbsp;days
+    </span>
+  </li>
+{{ end }}
+</ul>
+
+{{ end }}
+

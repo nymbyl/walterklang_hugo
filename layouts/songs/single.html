@@ -1,0 +1,44 @@
+{{ define "navigation" }}
+  {{ partial "navigation" (dict "current" "albums") }}
+{{ end }}
+
+{{ define "content" }}
+
+<h2><a href="/songs">Song</a>: {{ .Title }}</h2>
+
+<table class="table table-striped table-bordered table-sm">
+    <tr>
+        <th>Name</th>
+        <td>{{ .Title }}</td>
+    </tr>
+    <tr>
+            <th>Lyrics</th>
+            <td>{{ .Params.lyrics }}</td>
+    </tr>
+    <tr>
+            <th>Notes</th>
+            <td>{{ .Params.notes }}</td>
+        </tr>
+</table>
+
+
+
+{{ $related := where (.Site.RegularPages.RelatedTo ( keyVals "songs" .Params.Songs)) "Type" "recordings" }}
+
+{{ $recordingCount := len $related }}
+
+<h3>{{ $recordingCount }} Recordings</h3>
+
+{{ with $related }}
+<ul>
+{{ range . }}
+
+<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+{{ end }}
+</ul>
+{{ end }}
+
+
+{{ end }}
+
+

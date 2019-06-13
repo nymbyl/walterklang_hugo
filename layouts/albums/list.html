@@ -1,0 +1,60 @@
+{{ define "navigation" }}
+  {{ partial "navigation" (dict "current" "albums") }}
+{{ end }}
+
+{{ define "content" }}
+
+<h2>Albums</h2>
+<div>Total Count: {{ len .Data.Pages }}</div>
+{{ range sort .Data.Pages.ByWeight.Reverse }}
+  <div>
+    <h3>
+      <a href="{{ .Permalink }}">
+      {{ .Title }}
+    </a>
+    </h3>
+     
+    <ol class="list-group">
+    {{ $related := where (.Site.RegularPages.RelatedIndices . "songs") "Type" "songs" }}
+         
+    {{ with $related }}
+      {{ range .ByParam "weight"}}
+    
+    <li class="list-group-item d-flex justify-content-between align-items-center">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+
+      
+     {{ $recordings := where (.Site.RegularPages.RelatedTo ( keyVals "songs" .Params.Songs)) "Type" "recordings" }}
+
+     {{ with $recordings }}
+       {{ range first 1 (.ByParam "weight").Reverse }}
+
+       {{ $mixes := where (.Site.RegularPages.RelatedIndices . "mixes") "Type" "mixes" }}
+       {{ with $mixes }}
+         {{ range first 1 (.ByParam "weight").Reverse }}
+         <span class="badge badge-primary badge-pill">
+            <a title="{{ .Title }}" href="/mp3/{{ .Params.folder }}/{{ .Params.filename }}">
+             Mix
+            </a>
+         </span>
+          {{ end }} <!-- end range mixes -->
+      {{ end }} <!-- end with mixes -->
+    </li>
+
+       {{ end }}<!-- end range recordings -->
+     {{ end }}<!-- end with recordings -->
+    
+     
+     {{ end }}<!-- end range related -->
+
+
+  
+
+      {{ end }}<!-- end with related -->
+    </ol>
+
+  </div>
+{{ end }}
+
+{{ end }}
+

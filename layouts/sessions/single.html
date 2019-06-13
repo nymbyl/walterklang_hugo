@@ -1,0 +1,49 @@
+{{ define "navigation" }}
+  {{ partial "navigation" (dict "current" "sessions") }}
+{{ end }}
+
+{{ define "content" }}
+<h2><a href="/sessions">Session</a> : {{ .Title }}</h2>
+
+<table class="table table-striped table-bordered table-sm">
+        <tr>
+            <th>Name</th>
+            <td>{{ .Title }}</td>
+        </tr>
+        <tr>
+                <th>Start</th>
+                <td>{{ .Params.Start }}</td>
+            </tr>
+            <tr>
+                    <th>End</th>
+                    <td>{{ .Params.End }}</td>
+            </tr>
+</table>
+
+{{ $related := where (.Site.RegularPages.RelatedIndices . "session") "Type" "days" }}
+
+<h3>Days</h3>
+<div>Total Count: {{ len $related }}</div>
+<table class="table table-striped table-bordered table-sm">
+{{ with $related }}
+{{ range .ByDate.Reverse  }}
+<tr>
+   <td>{{ .Date.Format "2006-01-02" }}</td>
+   </td> 
+   <td>
+
+    {{ $recordings := where (.Site.RegularPages.RelatedIndices . "recordings") "Type" "recordings" }}
+    {{ with $recordings }}
+      <ul>
+      {{ range .  }}
+         <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      {{ end }}
+     </ul>
+    {{ end }}
+   </td>
+</tr>
+{{ end }}
+{{ end }}
+</table>
+
+{{ end }}

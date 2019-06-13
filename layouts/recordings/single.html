@@ -1,0 +1,64 @@
+{{ define "navigation" }}
+  {{ partial "navigation" (dict "current" "recordings") }}
+{{ end }}
+
+{{ define "content" }}
+  
+  <h2><a href="/recordings">Recording</a> : {{ .Title }}</h2>
+  <table class="table table-striped table-bordered table-sm">   
+      <tr>
+          <th>Date</th>
+          <td>{{ .Date.Format "2006-01-02" }}</td>
+      </tr>
+  
+      <tr>
+          <th>Bass</th>
+          <td>{{ .Params.Bass }}</td>
+      </tr>
+
+      <tr>
+          <th>Guitar</th>
+          <td>{{ .Params.Guitar }}</td>
+      </tr>
+
+      <tr>
+          <th>Drums</th>
+          <td>{{ .Params.Drums }}</td>
+      </tr>
+
+      </tr>
+  </table>
+  
+  {{ $related := where (.Site.RegularPages.RelatedIndices . "mixes") "Type" "mixes" }}
+ 
+  <h3>Mixes</h3>
+  <div>Total Count: {{ len $related }}</div>
+  <table class="table table-striped table-bordered table-sm">  
+      <tr>
+          <th>File</th>
+          <th>Is Best Mix?</th>
+          <th>Has Vocals?</th>
+      </tr>
+      {{ with $related }}
+      {{ range . }}
+      <tr>
+        <td>
+          <div>
+            <a href="/mp3/{{ .Params.Folder }}/{{ .Params.Filename }}">{{ .Title }}</a>
+          </div>
+          
+          <audio controls="">
+              <source src="/mp3/{{ .Params.Folder }}/{{ .Params.Filename }}" type="audio/mpeg">
+                <a href="/mp3/{{ .Params.Folder }}/{{ .Params.Filename }}">{{ .Title }}</a>
+          </audio>        
+        
+        </td>
+        <td>{{ .Params.Best }}</td>
+        <td>{{ .Params.Vocals }}</td>
+      </tr>
+      {{ end }}
+      {{ end }}
+  </table>
+  
+
+{{ end }}

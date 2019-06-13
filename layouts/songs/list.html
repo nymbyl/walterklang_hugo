@@ -1,0 +1,28 @@
+{{ define "navigation" }}
+  {{ partial "navigation" (dict "current" "songs") }}
+{{ end }}
+
+{{ define "content" }}
+<h2>Songs</h2>
+<div>Total Count: {{ len .Data.Pages }}</div>
+
+{{ range .Data.Pages.GroupByParam "group" }}
+<h3>{{ .Key }}</h3>
+
+{{ range .Pages.ByTitle }}
+{{ $related := where (.Site.RegularPages.RelatedTo ( keyVals "songs" .Params.Songs)) "Type" "recordings" }}
+
+<div>
+    <a href="{{ .Permalink }}">{{ .Title  }}</a>
+    <span class="badge badge-secondary badge-pill">
+        {{ len $related }}
+      </span>
+
+
+   </div>
+
+{{ end }}<!-- end range song -->
+{{ end }}<!-- end range grouped -->
+ 
+{{ end }} 
+

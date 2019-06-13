@@ -1,0 +1,30 @@
+baseURL = "http://walterklang.com/"
+languageCode = "en-us"
+title = "Walter Klang"
+
+[related]
+threshold = 50
+includeNewer = true
+toLower = true
+
+[[related.indices]]
+name = "songs"
+weight = 100
+toLower = true
+
+[[related.indices]]
+name = "recordings"
+weight = 100
+toLower = true
+
+[[related.indices]]
+name = "session"
+weight = 90
+toLower = true 
+
+[[related.indices]]
+name = "mixes"
+weight = 90
+toLower = true 
+
+
