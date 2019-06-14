@@ -2,7 +2,7 @@
 ---
 title: grind
 songs: grind
-weight: 0
+weight: 4
 group: G
 ---
 

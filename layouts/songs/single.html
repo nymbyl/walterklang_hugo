@@ -11,18 +11,11 @@
         <th>Name</th>
         <td>{{ .Title }}</td>
     </tr>
-    <tr>
-            <th>Lyrics</th>
-            <td>{{ .Params.lyrics }}</td>
-    </tr>
-    <tr>
-            <th>Notes</th>
-            <td>{{ .Params.notes }}</td>
-        </tr>
 </table>
 
+{{ .Content }}
 
-
+<hr />
 {{ $related := where (.Site.RegularPages.RelatedTo ( keyVals "songs" .Params.Songs)) "Type" "recordings" }}
 
 {{ $recordingCount := len $related }}

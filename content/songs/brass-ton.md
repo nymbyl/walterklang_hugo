@@ -2,7 +2,7 @@
 ---
 title: brass ton
 songs: brass-ton
-weight: 0
+weight: 4
 group: B
 ---
 

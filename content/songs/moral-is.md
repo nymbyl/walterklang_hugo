@@ -2,7 +2,7 @@
 ---
 title: moral is
 songs: moral-is
-weight: 0
+weight: 8
 group: M
 ---
 
