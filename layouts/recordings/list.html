@@ -16,7 +16,7 @@
         </tr>
       </thead>
       <tbody>
-        {{ range .Pages }}
+        {{ range .Pages.ByDate.Reverse }}
         <tr>
             <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
             <td>{{ .Date.Format "2006-01-02" }}</td>
