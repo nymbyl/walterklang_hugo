@@ -13,6 +13,7 @@
           <th>Date</th>
           <th>Song</th>
           <th>Rating</th>
+          <th>Vocals</th>
         </tr>
       </thead>
       <tbody>
@@ -29,6 +30,20 @@
                 {{ end }}
             </td>
             <td>{{ .Params.Rating }}</td>
+            <td>
+                {{ $mixes := where (.Site.RegularPages.RelatedIndices . "mixes") "Type" "mixes" }}
+                {{ with $mixes }}
+                  {{ range first 1 (.ByParam "weight").Reverse }}
+          
+                  {{ if .Params.vocals }}
+                  <span class="badge badge-primary badge-pill">Vocals</span>
+                  {{ end }}
+                  
+                  {{ end }} <!-- end range mixes -->
+                {{ end }} <!-- end with mixes -->
+          
+
+            </td>
         </tr>
         {{ end }}
       </tbody>

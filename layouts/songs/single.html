@@ -23,12 +23,33 @@
 <h3>{{ $recordingCount }} Recordings</h3>
 
 {{ with $related }}
-<ul>
+<table class="table table-bordered table-sm">
 {{ range . }}
+<tr>
+  <td>
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+  </td>
+  <td>{{ .Date.Format "2006-01-02" }}</td> 
+  <td>
 
-<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+
+
+      {{ $mixes := where (.Site.RegularPages.RelatedIndices . "mixes") "Type" "mixes" }}
+      {{ with $mixes }}
+        {{ range first 1 (.ByParam "weight").Reverse }}
+
+        {{ if .Params.vocals }}
+        <span class="badge badge-primary badge-pill">Vocals</span>
+        {{ end }}
+        
+        {{ end }} <!-- end range mixes -->
+      {{ end }} <!-- end with mixes -->
+
+
+  </td>
+</tr>
 {{ end }}
-</ul>
+</table>
 {{ end }}
 
 

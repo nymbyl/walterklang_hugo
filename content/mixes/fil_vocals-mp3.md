@@ -8,5 +8,5 @@ recordings: fil-0
 filename: fil_vocals.mp3
 mixes: fil_vocals-mp3
 folder: 2007-02-03/fil
-weight: 0
+weight: 10
 ---

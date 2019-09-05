@@ -47,7 +47,9 @@ title: "Main Page"
       <li class="list-inline-item"><a href="/mp3/2007-08-04/katydid/katydid_vocals.mp3">Katydid</a></li>
       <li class="list-inline-item"><a href="/mp3/2006-12-30/fil/FIL.mp3">Father in Law</a></li>
       <li class="list-inline-item"><a href="/mp3/2007-07-28/nutgrass/Nutgrass_vocals.mp3">Nutgrass</a></li>
-      <li class="list-inline-item"><a href="/mp3/2007-01-06/herald/walk_the_course.mp3">Walk the Course</a></li>
+      <li class="list-inline-item"><a href="/mp3/2004-05-01/hoil/hoil_vocals.mp3">Crazy Here</a></li>
+      <li class="list-inline-item"><a href="/mp3/2007-03-31/term/iif_plain_vocals.mp3">If and Only If</a></li>
+
     </ol>
  
     <h4>2001-2003</h4>
@@ -60,7 +62,6 @@ title: "Main Page"
       <li class="list-inline-item"><a href="/mp3/2003-07-05/pushing%20the%20rain/rain.mp3">Pushing the Rain</a></li>
       <li class="list-inline-item"><a href="/mp3/2003-07-05/fly/fly.mp3">Fly Me</a></li>
       <li class="list-inline-item"><a href="/mp3/2003-07-05/mother%27s%20table/mother%27s%20tabel.mp3">Ockham's Razor</a></li>
-      <li class="list-inline-item"><a href="/mp3/2002-01-12/House%20of%20Perdition/House%20of%20Perdition.mp3">House of Rumor</a></li>
     </ol>
 
 
