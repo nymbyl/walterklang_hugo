@@ -1,4 +1,3 @@
-
 ---
 title: 4th girl
 date: 2008-11-29

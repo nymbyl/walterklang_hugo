@@ -1,4 +1,3 @@
-
 ---
 title: hobnob_vocals.mp3
 vocals: true

@@ -1,4 +1,3 @@
-
 ---
 title: 4thgirl
 date: 2008-06-07

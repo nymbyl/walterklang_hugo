@@ -1,4 +1,3 @@
-
 ---
 title: katydid_vocals.mp3
 vocals: true

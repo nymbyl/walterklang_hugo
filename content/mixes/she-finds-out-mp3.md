@@ -1,4 +1,3 @@
-
 ---
 title: She Finds Out.mp3
 vocals: true
