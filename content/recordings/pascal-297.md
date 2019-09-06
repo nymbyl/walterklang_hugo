@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2002-06-29
 songs: [pascal]
-mixes: [pascal-mp3]
+mixes: [pascal_297-mp3]
 recordings: pascal-297
 rating: 6.0
 best: false
