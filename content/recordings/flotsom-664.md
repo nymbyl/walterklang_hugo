@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2008-06-14
 songs: [flotsam]
-mixes: [flotsom2_vocals-mp3,flotsom2-mp3]
+mixes: [flotsom2_664_vocals-mp3,flotsom2_664-mp3]
 recordings: flotsom-664
 rating: 9.0
 best: true
