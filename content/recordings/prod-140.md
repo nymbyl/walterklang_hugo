@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2004-10-16
 songs: [hell-of-mine]
-mixes: [prod-mp3]
+mixes: [prod-mp3-143]
 recordings: prod-140
 rating: 4.0
 best: false

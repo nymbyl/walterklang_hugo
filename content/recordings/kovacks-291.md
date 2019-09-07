@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2002-06-15
 songs: []
-mixes: [kovacks-mp3]
+mixes: [kovacks-mp3-299]
 recordings: kovacks-291
 rating: 5.0
 best: false

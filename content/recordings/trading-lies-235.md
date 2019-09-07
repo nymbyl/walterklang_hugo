@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2001-11-10
 songs: [trading-lies]
-mixes: [trading-lies-mp3]
+mixes: [trading-lies-mp3-236]
 recordings: trading-lies-235
 rating: 7.0
 best: false

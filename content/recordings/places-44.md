@@ -7,7 +7,7 @@ drums:	Rob
 guitar:	Chad
 day: 2003-11-01
 songs: []
-mixes: [places-mp3]
+mixes: [places-mp3-81]
 recordings: places-44
 rating: 3.0
 best: false

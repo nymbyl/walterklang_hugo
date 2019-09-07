@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2007-03-04
 songs: [make-make]
-mixes: [makemake-mp3]
+mixes: [makemake-mp3-492]
 recordings: makemake-473
 rating: 7.0
 best: false

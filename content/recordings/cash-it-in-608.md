@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2007-12-23
 songs: [cash-it-in]
-mixes: [cash-it-in-mp3]
+mixes: [cash-it-in-mp3-673]
 recordings: cash-it-in-608
 rating: 7.0
 best: false

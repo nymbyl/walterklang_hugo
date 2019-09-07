@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2007-11-24
 songs: [turkey-baster]
-mixes: [turkeybaster-mp3]
+mixes: [turkeybaster-mp3-653]
 recordings: turkeybaster-594
 rating: 5.0
 best: false

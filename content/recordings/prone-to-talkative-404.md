@@ -7,7 +7,7 @@ drums:	Rob
 guitar:	
 day: 2006-07-29
 songs: []
-mixes: [prone-to-talkative-mp3]
+mixes: [prone-to-talkative-mp3-415]
 recordings: prone-to-talkative-404
 rating: 5.0
 best: false

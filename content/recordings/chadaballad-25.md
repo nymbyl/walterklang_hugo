@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2003-07-19
 songs: []
-mixes: [chadaballad-mp3]
+mixes: [chadaballad-mp3-67]
 recordings: chadaballad-25
 rating: 3.0
 best: false

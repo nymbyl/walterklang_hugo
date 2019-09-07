@@ -7,7 +7,7 @@ drums:
 guitar:	Rob
 day: 1991-08-25
 songs: [floating]
-mixes: [floating-mp3]
+mixes: [floating-mp3-579]
 recordings: floating-524
 rating: 9.0
 best: true

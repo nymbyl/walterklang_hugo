@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2003-06-14
 songs: []
-mixes: [glad-to-see-it-go-mp3]
+mixes: [glad-to-see-it-go-mp3-45]
 recordings: glad-to-see-7
 rating: 4.0
 best: false

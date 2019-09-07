@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2003-06-28
 songs: []
-mixes: [wubble-mp3]
+mixes: [wubble-mp3-58]
 recordings: wubble-16
 rating: 4.0
 best: false

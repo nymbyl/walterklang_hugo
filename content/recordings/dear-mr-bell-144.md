@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2004-11-13
 songs: [dear-mr-bell]
-mixes: [mr-bell-mp3]
+mixes: [mr-bell-mp3-154]
 recordings: dear-mr-bell-144
 rating: 5.0
 best: false

@@ -7,7 +7,7 @@ drums:	Rob
 guitar:	Chad
 day: 1995-03-14
 songs: [wisteria]
-mixes: [wisteria-mp3]
+mixes: [wisteria-mp3-609]
 recordings: wisteria-554
 rating: 9.0
 best: true

@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2008-05-03
 songs: [skull-cap]
-mixes: [skull-cap-mp3]
+mixes: [skull-cap-mp3-724]
 recordings: skull-cap-641
 rating: 8.0
 best: false

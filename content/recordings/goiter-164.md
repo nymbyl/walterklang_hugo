@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2005-03-26
 songs: []
-mixes: [goiter-mp3]
+mixes: [goiter-mp3-173]
 recordings: goiter-164
 rating: 4.0
 best: false

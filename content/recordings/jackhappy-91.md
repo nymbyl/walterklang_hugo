@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2004-04-10
 songs: []
-mixes: [jackhappy-mp3]
+mixes: [jackhappy-mp3-29]
 recordings: jackhappy-91
 rating: 4.0
 best: false

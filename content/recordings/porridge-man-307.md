@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2002-08-24
 songs: [porridge-man]
-mixes: [porridge-mp3]
+mixes: [porridge-mp3-317]
 recordings: porridge-man-307
 rating: 8.0
 best: false

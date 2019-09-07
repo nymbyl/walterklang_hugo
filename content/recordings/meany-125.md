@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2004-07-31
 songs: []
-mixes: [meany-mp3]
+mixes: [meany-mp3-116]
 recordings: meany-125
 rating: 3.0
 best: false

@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2002-01-12
 songs: [house-of-rumor]
-mixes: [perdition-mp3,house-of-perdition-mp3]
+mixes: [perdition-mp3-320,house-of-perdition-mp3-256]
 recordings: house-of-perdition-254
 rating: 7.0
 best: true

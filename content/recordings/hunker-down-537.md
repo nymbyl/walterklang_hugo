@@ -7,7 +7,7 @@ drums:	Rob
 guitar:	Rob
 day: 1994-11-28
 songs: [hunker-down]
-mixes: [hunker_down-mp3]
+mixes: [hunker_down-mp3-592]
 recordings: hunker-down-537
 rating: 8.0
 best: true

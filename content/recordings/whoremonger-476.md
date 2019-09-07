@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2007-03-10
 songs: [horemonger]
-mixes: [whoremonger-mp3]
+mixes: [whoremonger-mp3-495]
 recordings: whoremonger-476
 rating: 8.0
 best: false

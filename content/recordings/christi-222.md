@@ -7,7 +7,7 @@ drums:	Brent
 guitar:	
 day: 2005-08-27
 songs: []
-mixes: [christi-mp3]
+mixes: [christi-mp3-223]
 recordings: christi-222
 rating: 4.0
 best: false

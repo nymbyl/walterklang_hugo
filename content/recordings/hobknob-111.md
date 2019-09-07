@@ -1,3 +1,4 @@
+
 ---
 title: hobknob
 date: 2004-06-12
@@ -6,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2004-06-12
 songs: [hobnob]
-mixes: [hobknob_vocals_111-mp3,hobknob_111-mp3]
+mixes: [hobknob_vocals-mp3-543,hobknob-mp3-208]
 recordings: hobknob-111
 rating: 5.0
 best: false

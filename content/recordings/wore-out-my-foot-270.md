@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2002-03-30
 songs: [wore-out-my-foot]
-mixes: [foot-mp3]
+mixes: [foot-mp3-275]
 recordings: wore-out-my-foot-270
 rating: 5.0
 best: false

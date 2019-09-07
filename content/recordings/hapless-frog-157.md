@@ -7,7 +7,7 @@ drums:	Brent
 guitar:	Rob
 day: 2005-03-19
 songs: [hapless-frog]
-mixes: [happless-frog-mp3]
+mixes: [happless-frog-mp3-165]
 recordings: hapless-frog-157
 rating: 7.0
 best: false

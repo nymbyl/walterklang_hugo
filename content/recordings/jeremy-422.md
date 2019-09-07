@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2006-08-19
 songs: [basketball-head]
-mixes: [basketballhead-mp3]
+mixes: [basketballhead-mp3-427]
 recordings: jeremy-422
 rating: 8.0
 best: false

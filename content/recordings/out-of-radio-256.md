@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2002-01-12
 songs: [out-of-radio]
-mixes: [out-of-radio-mp3]
+mixes: [out-of-radio-mp3-258]
 recordings: out-of-radio-256
 rating: 6.0
 best: false

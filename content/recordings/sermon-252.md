@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2002-01-05
 songs: []
-mixes: [sermon-mp3]
+mixes: [sermon-mp3-253]
 recordings: sermon-252
 rating: 4.0
 best: false

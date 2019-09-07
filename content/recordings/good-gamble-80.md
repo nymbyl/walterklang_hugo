@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2004-04-03
 songs: [gamble]
-mixes: [good-gamble-mp3]
+mixes: [good-gamble-mp3-21]
 recordings: good-gamble-80
 rating: 4.0
 best: false

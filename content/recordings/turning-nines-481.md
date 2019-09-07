@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	
 day: 2007-03-24
 songs: [she-finds-out]
-mixes: [weedpullers-mp3]
+mixes: [weedpullers-mp3-503]
 recordings: turning-nines-481
 rating: 8.0
 best: false

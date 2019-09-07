@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2005-12-03
 songs: []
-mixes: [had_some_slippage-mp3]
+mixes: [had_some_slippage-mp3-335]
 recordings: had-some-slippage-324
 rating: 6.5
 best: false

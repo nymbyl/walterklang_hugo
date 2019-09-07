@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2004-11-13
 songs: [walk-the-course]
-mixes: [corsair-blue-mp3]
+mixes: [corsair-blue-mp3-155]
 recordings: corsair-143
 rating: 7.0
 best: false

@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2004-02-21
 songs: [world-goes-wrong]
-mixes: [new-addition_vocals-mp3,new-addition-mumble-mp3,new-addition-mp3]
+mixes: [new-addition_vocals-mp3-688,new-addition-mumble-mp3-120,new-addition-mp3-9]
 recordings: a-new-addition-59
 rating: 7.0
 best: false

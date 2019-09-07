@@ -7,7 +7,7 @@ drums:	Rob
 guitar:	Chad
 day: 1995-07-13
 songs: [backwards]
-mixes: [backwards-mp3]
+mixes: [backwards-mp3-622]
 recordings: backwards-555
 rating: 7.0
 best: true

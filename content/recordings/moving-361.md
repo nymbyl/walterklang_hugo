@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2006-05-06
 songs: []
-mixes: [moving-mp3]
+mixes: [moving-mp3-371]
 recordings: moving-361
 rating: 5.0
 best: false

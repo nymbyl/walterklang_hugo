@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2002-06-01
 songs: [ripping-tree]
-mixes: [tree_fixed-mp3,tree-mp3,ripping-tree-mp3]
+mixes: [tree_fixed-mp3-667,tree-mp3-293,ripping-tree-mp3-294]
 recordings: the-ripping-tree-287
 rating: 7.0
 best: true

@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2009-01-10
 songs: [bubble]
-mixes: [bubble2-mp3]
+mixes: [bubble2-mp3-845]
 recordings: bubble-720
 rating: 6.0
 best: false

@@ -7,7 +7,7 @@ drums:	Rob
 guitar:	Chad
 day: 2003-07-05
 songs: []
-mixes: [crabby-mp3]
+mixes: [crabby-mp3-59]
 recordings: crabby-17
 rating: 2.0
 best: false

@@ -7,7 +7,7 @@ drums:	Rob
 guitar:	Chad
 day: 1995-07-13
 songs: [slouch]
-mixes: [slouch-mp3]
+mixes: [slouch-mp3-620]
 recordings: slouch-565
 rating: 9.0
 best: true

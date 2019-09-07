@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2004-10-16
 songs: []
-mixes: [changes-mp3]
+mixes: [changes-mp3-140]
 recordings: changes-137
 rating: 1.0
 best: false

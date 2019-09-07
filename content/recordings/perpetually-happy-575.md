@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2007-09-29
 songs: [perpetually-happy]
-mixes: [perpetually-happy-mp3]
+mixes: [perpetually-happy-mp3-634]
 recordings: perpetually-happy-575
 rating: 6.0
 best: false

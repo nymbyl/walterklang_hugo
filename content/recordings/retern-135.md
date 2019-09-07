@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2004-10-09
 songs: [conviction]
-mixes: [retern-mp3]
+mixes: [retern-mp3-146]
 recordings: retern-135
 rating: 4.0
 best: false

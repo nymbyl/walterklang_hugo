@@ -7,7 +7,7 @@ drums:	Rob
 guitar:	Chad
 day: 1994-11-28
 songs: [the-trick-of-disappearance]
-mixes: [trick_of_disappearance-mp3]
+mixes: [trick_of_disappearance-mp3-598]
 recordings: trick-of-disappearance-543
 rating: 8.0
 best: true

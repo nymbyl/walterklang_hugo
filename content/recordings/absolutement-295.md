@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2002-06-29
 songs: []
-mixes: [absolutement2-mp3]
+mixes: [absolutement2-mp3-304]
 recordings: absolutement-295
 rating: 7.0
 best: false

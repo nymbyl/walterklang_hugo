@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	
 day: 2007-10-20
 songs: [peer-review]
-mixes: [peer-review-mp3]
+mixes: [peer-review-mp3-645]
 recordings: peer-review-586
 rating: 7.0
 best: false

@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2006-02-18
 songs: []
-mixes: [has_been_so_so-mp3]
+mixes: [has_been_so_so-mp3-357]
 recordings: has-been-so-so-342
 rating: 6.0
 best: false

@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2002-06-01
 songs: [blue-whale]
-mixes: [blue-whale-mp3]
+mixes: [blue-whale-mp3-292]
 recordings: blue-whale-286
 rating: 7.0
 best: false

@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2005-10-22
 songs: [call-by-nine]
-mixes: [call_by_nine-mp3]
+mixes: [call_by_nine-mp3-322]
 recordings: call-by-nine-312
 rating: 7.0
 best: false

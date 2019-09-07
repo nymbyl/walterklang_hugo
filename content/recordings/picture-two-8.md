@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2003-06-14
 songs: [juggernaut]
-mixes: [picture-two-mp3]
+mixes: [picture-two-mp3-46]
 recordings: picture-two-8
 rating: 6.0
 best: false

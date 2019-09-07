@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2004-04-10
 songs: []
-mixes: [terb-mp3]
+mixes: [terb-mp3-31]
 recordings: terb-93
 rating: 4.0
 best: false

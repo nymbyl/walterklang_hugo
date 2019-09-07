@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2003-08-16
 songs: [accidental]
-mixes: [vintage-mp3]
+mixes: [vintage-mp3-75]
 recordings: vintage-35
 rating: 6.0
 best: true

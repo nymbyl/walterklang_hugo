@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2002-02-23
 songs: []
-mixes: [9-mp3]
+mixes: [9-mp3-267]
 recordings: ninth-time-right-263
 rating: 4.0
 best: false

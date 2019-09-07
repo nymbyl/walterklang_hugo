@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2008-06-07
 songs: [human-target]
-mixes: [human-target-mp3]
+mixes: [human-target-mp3-745]
 recordings: human-target-659
 rating: 8.0
 best: false

@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2001-12-29
 songs: []
-mixes: [jiminy-mp3]
+mixes: [jiminy-mp3-248]
 recordings: jiminy-246
 rating: 4.0
 best: false

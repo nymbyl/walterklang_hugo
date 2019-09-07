@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2007-09-01
 songs: [christopher]
-mixes: [christopher_vocals-mp3,christopher-mp3]
+mixes: [christopher_vocals-mp3-624,christopher-mp3-623]
 recordings: christopher-568
 rating: 8.0
 best: false

@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2004-05-15
 songs: [hobnob]
-mixes: [hobknob-mp3]
+mixes: [hobknob-mp3-38]
 recordings: hobknob-104
 rating: 6.0
 best: false

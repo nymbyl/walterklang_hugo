@@ -1,3 +1,4 @@
+
 ---
 title: gorge
 date: 2007-03-31
@@ -6,7 +7,7 @@ drums:	Mike
 guitar:	
 day: 2007-03-31
 songs: [katy-did]
-mixes: [gorge_vocals-mp3,gorge-mp3]
+mixes: [katydid_vocals-mp3-510,katydid-mp3-504]
 recordings: gorge-482
 rating: 7.0
 best: false

@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2005-02-12
 songs: []
-mixes: [criminy-mp3]
+mixes: [criminy-mp3-195]
 recordings: criminy-184
 rating: 4.0
 best: false

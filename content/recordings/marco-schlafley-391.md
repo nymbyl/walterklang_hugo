@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2006-07-01
 songs: []
-mixes: [demarco-schlafely-mp3]
+mixes: [demarco-schlafely-mp3-401]
 recordings: marco-schlafley-391
 rating: 3.0
 best: false

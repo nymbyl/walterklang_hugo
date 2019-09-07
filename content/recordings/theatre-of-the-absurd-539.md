@@ -7,7 +7,7 @@ drums:	Rob
 guitar:	Chad
 day: 1994-11-28
 songs: [theatre-of-the-absurd]
-mixes: [theatre_of_the_absurd-mp3]
+mixes: [theatre_of_the_absurd-mp3-594]
 recordings: theatre-of-the-absurd-539
 rating: 9.0
 best: true

@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2003-07-05
 songs: [fly-me]
-mixes: [fly-mp3]
+mixes: [fly-mp3-60]
 recordings: fly-18
 rating: 7.0
 best: true

@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2006-07-01
 songs: [nut-grass]
-mixes: [nutgrass-mp3]
+mixes: [nutgrass-mp3-402]
 recordings: poor-nancy-392
 rating: 8.0
 best: false

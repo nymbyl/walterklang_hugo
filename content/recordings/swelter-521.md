@@ -7,7 +7,7 @@ drums:	Rob
 guitar:	Rob
 day: 1995-07-13
 songs: [swelter]
-mixes: [swelter-mp3]
+mixes: [swelter-mp3-576]
 recordings: swelter-521
 rating: 9.0
 best: true

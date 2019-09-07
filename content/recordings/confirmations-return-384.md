@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2006-06-03
 songs: [conviction]
-mixes: [confirmations-return-mp3]
+mixes: [confirmations-return-mp3-394]
 recordings: confirmations-return-384
 rating: 7.5
 best: false

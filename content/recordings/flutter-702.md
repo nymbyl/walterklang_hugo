@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2008-10-11
 songs: [flutter]
-mixes: [flutter-mp3]
+mixes: [flutter-mp3-805]
 recordings: flutter-702
 rating: 8.0
 best: false

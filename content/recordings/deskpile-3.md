@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2003-05-31
 songs: [routine]
-mixes: [desk-mp3]
+mixes: [desk-mp3-41]
 recordings: deskpile-3
 rating: 7.0
 best: false

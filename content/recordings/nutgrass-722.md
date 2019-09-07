@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2009-01-10
 songs: [nut-grass]
-mixes: [nutgrass-mp3]
+mixes: [nutgrass-mp3-844]
 recordings: nutgrass-722
 rating: 9.0
 best: false

@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2004-05-15
 songs: [fourth-girl]
-mixes: [fourth-mp3]
+mixes: [fourth-mp3-96]
 recordings: fourth-year-103
 rating: 3.0
 best: false

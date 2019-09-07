@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2007-12-08
 songs: [turkey-baster]
-mixes: [mind-your-beeswax-mp3]
+mixes: [mind-your-beeswax-mp3-655]
 recordings: mind-your-beeswax-596
 rating: 5.0
 best: false

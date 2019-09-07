@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2004-02-07
 songs: [katy-did]
-mixes: [eraser-mp3]
+mixes: [eraser-mp3-5]
 recordings: eraser-55
 rating: 6.0
 best: false

@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2003-12-20
 songs: [fly-me]
-mixes: [fly-me-mp3]
+mixes: [fly-me-mp3-131]
 recordings: fly-me-50
 rating: 4.0
 best: false

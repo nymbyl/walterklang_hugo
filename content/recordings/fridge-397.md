@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2006-07-22
 songs: []
-mixes: [fridge-mp3]
+mixes: [fridge-mp3-408]
 recordings: fridge-397
 rating: 5.0
 best: false

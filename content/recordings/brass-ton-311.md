@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2005-10-22
 songs: [brass-ton]
-mixes: [brass_ton-mp3]
+mixes: [brass_ton-mp3-321]
 recordings: brass-ton-311
 rating: 5.0
 best: false

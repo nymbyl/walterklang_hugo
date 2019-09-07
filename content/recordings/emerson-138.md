@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2004-10-16
 songs: []
-mixes: [emerson-mp3]
+mixes: [emerson-mp3-141]
 recordings: emerson-138
 rating: 2.0
 best: false

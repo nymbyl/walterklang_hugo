@@ -7,7 +7,7 @@ drums:	Rob
 guitar:	Chad
 day: 1994-11-28
 songs: [drunk]
-mixes: [drunk-mp3]
+mixes: [drunk-mp3-587]
 recordings: drunk-532
 rating: 9.0
 best: true

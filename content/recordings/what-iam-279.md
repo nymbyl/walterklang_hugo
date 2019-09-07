@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2002-05-04
 songs: []
-mixes: [whatiam-mp3]
+mixes: [whatiam-mp3-283]
 recordings: what-iam-279
 rating: 6.0
 best: false

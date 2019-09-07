@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2006-07-22
 songs: []
-mixes: [take-me-mp3]
+mixes: [take-me-mp3-410]
 recordings: take-me-2-yr-leader-399
 rating: 6.0
 best: false

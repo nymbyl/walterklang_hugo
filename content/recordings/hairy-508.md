@@ -7,8 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2007-06-30
 songs: [hairy]
-#mixes: [hairy_508-mp3,hairy_vocals_508-mp3,hairy_final_508-mp3]
-mixes: [hairy_508-mp3,hairy_vocals_508-mp3,hairy_final-mp3]
+mixes: [hairy-mp3-552,hairy_vocals-mp3-554,hairy_final-mp3-815]
 recordings: hairy-508
 rating: 7.0
 best: true

@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2007-09-29
 songs: [charge-the-mound]
-mixes: [charge-the-mound-again-mp3]
+mixes: [charge-the-mound-mp3-631]
 recordings: charge-the-mound-572
 rating: 7.0
 best: false

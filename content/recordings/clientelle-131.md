@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2004-09-18
 songs: []
-mixes: [clientelle-mp3]
+mixes: [clientelle-mp3-139]
 recordings: clientelle-131
 rating: 4.0
 best: false

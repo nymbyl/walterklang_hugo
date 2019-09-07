@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	
 day: 2004-02-07
 songs: []
-mixes: [and-the-pickles-mp3]
+mixes: [and-the-pickles-mp3-2]
 recordings: pickle-taster-56
 rating: 3.0
 best: false

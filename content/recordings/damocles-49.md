@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2003-12-20
 songs: [sword-of-damocles]
-mixes: [damocles-mp3]
+mixes: [damocles-mp3-132]
 recordings: damocles-49
 rating: 7.0
 best: false

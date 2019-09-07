@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2006-08-19
 songs: []
-mixes: [ridemho-mp3]
+mixes: [ridemho-mp3-432]
 recordings: ridemho-424
 rating: 5.0
 best: false

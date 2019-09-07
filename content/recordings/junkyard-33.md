@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2003-08-16
 songs: []
-mixes: [junkyard-mp3]
+mixes: [junkyard-mp3-73]
 recordings: junkyard-33
 rating: 3.0
 best: false

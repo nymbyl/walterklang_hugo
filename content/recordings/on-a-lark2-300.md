@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2002-07-06
 songs: []
-mixes: [on-a-lark2-mp3]
+mixes: [on-a-lark2-mp3-309]
 recordings: on-a-lark2-300
 rating: 3.0
 best: false

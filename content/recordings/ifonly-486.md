@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2007-04-14
 songs: [next-town-methane]
-mixes: [methane-mp3]
+mixes: [methane-mp3-508]
 recordings: ifonly-486
 rating: 5.0
 best: false

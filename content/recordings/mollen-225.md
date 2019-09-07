@@ -7,7 +7,7 @@ drums:	Brent
 guitar:	Chad
 day: 2005-08-27
 songs: []
-mixes: [molleen-mp3]
+mixes: [molleen-mp3-226]
 recordings: mollen-225
 rating: 3.0
 best: false

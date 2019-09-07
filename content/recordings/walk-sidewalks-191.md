@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2005-02-12
 songs: [sidewalks]
-mixes: [sidewalks-mp3]
+mixes: [sidewalks-mp3-189]
 recordings: walk-sidewalks-191
 rating: 6.5
 best: false

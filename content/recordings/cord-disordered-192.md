@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	
 day: 2005-02-05
 songs: []
-mixes: [cords-disord-mp3]
+mixes: [cords-disord-mp3-198]
 recordings: cord-disordered-192
 rating: 3.0
 best: false

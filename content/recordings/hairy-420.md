@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2006-08-19
 songs: [hairy]
-mixes: [hairy-mp3]
+mixes: [hairy-mp3-430]
 recordings: hairy-420
 rating: 8.0
 best: false

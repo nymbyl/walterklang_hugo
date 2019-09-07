@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2005-12-17
 songs: []
-mixes: [clobered2-mp3]
+mixes: [clobered2-mp3-340]
 recordings: clobbered-329
 rating: 7.0
 best: false

@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2002-04-20
 songs: []
-mixes: [darkhorse4-mp3]
+mixes: [darkhorse4-mp3-281]
 recordings: darkhorse4-277
 rating: 4.0
 best: false

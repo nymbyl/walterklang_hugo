@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2005-09-03
 songs: []
-mixes: [hot-beverage-mp3]
+mixes: [hot-beverage-mp3-228]
 recordings: caution-hot-beverage-226
 rating: 3.0
 best: false

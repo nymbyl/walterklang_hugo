@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2008-01-05
 songs: []
-mixes: [periwinkle-mp3]
+mixes: [periwinkle-mp3-682]
 recordings: periwinkle-617
 rating: 6.0
 best: false

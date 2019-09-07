@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2008-03-22
 songs: [oughtta-be-a-law]
-mixes: [oughtta-be-a-law-mp3]
+mixes: [oughtta-be-a-law-mp3-701]
 recordings: oughtta-be-a-law-621
 rating: 6.0
 best: false

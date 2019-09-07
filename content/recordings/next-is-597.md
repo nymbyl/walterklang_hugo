@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2007-12-08
 songs: [cash-it-in]
-mixes: [nextis-mp3]
+mixes: [nextis-mp3-656]
 recordings: next-is-597
 rating: 7.0
 best: false

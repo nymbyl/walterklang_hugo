@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2004-02-07
 songs: [color-of-rain]
-mixes: [see-you-later-mumble-mp3,see-you-later-mp3]
+mixes: [see-you-later-mumble-mp3-126,see-you-later-mp3-6]
 recordings: see-you-later-57
 rating: 6.0
 best: false

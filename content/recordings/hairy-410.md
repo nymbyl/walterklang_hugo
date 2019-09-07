@@ -7,7 +7,7 @@ drums:	Rob
 guitar:	
 day: 2006-08-12
 songs: [hairy]
-mixes: [hairy-mp3]
+mixes: [hairy-mp3-421]
 recordings: hairy-410
 rating: 6.0
 best: false

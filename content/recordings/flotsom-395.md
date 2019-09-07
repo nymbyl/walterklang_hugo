@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2006-07-08
 songs: [flotsam]
-mixes: [flotsom_vocals_395-mp3,flotsom_395-mp3]
+mixes: [flotsom_vocals-mp3-533,flotsom-mp3-407]
 recordings: flotsom-395
 rating: 6.0
 best: false

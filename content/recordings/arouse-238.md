@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2001-12-08
 songs: [arouse]
-mixes: [arouse-mp3]
+mixes: [arouse-mp3-239]
 recordings: arouse-238
 rating: 6.0
 best: false

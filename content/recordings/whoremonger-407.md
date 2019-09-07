@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2006-08-05
 songs: [horemonger]
-mixes: [whoremore-mp3]
+mixes: [whoremore-mp3-418]
 recordings: whoremonger-407
 rating: 6.0
 best: false

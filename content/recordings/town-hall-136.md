@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2004-10-09
 songs: []
-mixes: [town-hall-mp3]
+mixes: [town-hall-mp3-145]
 recordings: town-hall-136
 rating: 3.0
 best: false

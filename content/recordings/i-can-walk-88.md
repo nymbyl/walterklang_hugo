@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2004-04-10
 songs: [broken-record]
-mixes: [i-can-walk-mumble-mp3,i-can-walk-mp3]
+mixes: [i-can-walk-mumble-mp3-127,i-can-walk-mp3-28]
 recordings: i-can-walk-88
 rating: 3.0
 best: false

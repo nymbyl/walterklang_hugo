@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2003-06-28
 songs: [father-in-law]
-mixes: [lotion-mp3]
+mixes: [lotion-mp3-55]
 recordings: lotion-12
 rating: 3.0
 best: false

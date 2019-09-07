@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2003-06-28
 songs: [ockhams-razor]
-mixes: [mothairs-tablet-mp3]
+mixes: [mothairs-tablet-mp3-56]
 recordings: mothers-table-13
 rating: 7.0
 best: false

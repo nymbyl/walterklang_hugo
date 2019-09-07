@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2006-08-26
 songs: [got-a-glower]
-mixes: [glower-mp3]
+mixes: [glower-mp3-440]
 recordings: meankey-432
 rating: 5.0
 best: false

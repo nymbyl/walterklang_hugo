@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2003-05-31
 songs: []
-mixes: [gulleywasher-mp3]
+mixes: [gulleywasher-mp3-42]
 recordings: gulleywasher-4
 rating: 3.0
 best: false

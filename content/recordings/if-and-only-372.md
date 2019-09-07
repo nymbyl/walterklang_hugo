@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2006-05-20
 songs: [if-and-only-if]
-mixes: [iif-mp3]
+mixes: [iif-mp3-382]
 recordings: if-and-only-372
 rating: 7.0
 best: false

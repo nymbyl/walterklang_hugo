@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2006-08-19
 songs: [father-in-law]
-mixes: [fatherinlaw-mp3]
+mixes: [fatherinlaw-mp3-428]
 recordings: fatherinlaw-418
 rating: 7.0
 best: false

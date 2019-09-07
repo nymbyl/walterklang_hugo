@@ -7,7 +7,7 @@ drums:	Rob
 guitar:	Chad
 day: 1995-03-14
 songs: [mallorey]
-mixes: [mallorey-mp3]
+mixes: [mallorey-mp3-604]
 recordings: mallorey-549
 rating: 8.0
 best: true

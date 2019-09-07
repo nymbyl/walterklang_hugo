@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2005-11-05
 songs: []
-mixes: [walking-mp3]
+mixes: [walking-mp3-333]
 recordings: walking-319
 rating: 6.0
 best: false

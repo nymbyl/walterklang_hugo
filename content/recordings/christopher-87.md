@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2004-04-10
 songs: [christopher]
-mixes: [christopher-mp3]
+mixes: [christopher-mp3-26]
 recordings: christopher-87
 rating: 7.0
 best: false

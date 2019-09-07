@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2002-07-20
 songs: [monkey-to-bug]
-mixes: [monkey-mp3]
+mixes: [monkey-mp3-314]
 recordings: monkey-to-bug-305
 rating: 7.0
 best: false

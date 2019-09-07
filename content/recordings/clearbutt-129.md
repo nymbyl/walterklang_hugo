@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2004-08-28
 songs: []
-mixes: [clearbutt-mp3]
+mixes: [clearbutt-mp3-137]
 recordings: clearbutt-129
 rating: 4.0
 best: false

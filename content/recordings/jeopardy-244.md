@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2001-12-29
 songs: []
-mixes: [jeopardy-mp3]
+mixes: [jeopardy-mp3-245]
 recordings: jeopardy-244
 rating: 7.0
 best: false

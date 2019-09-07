@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2003-05-31
 songs: []
-mixes: [treefrog-mp3]
+mixes: [treefrog-mp3-44]
 recordings: crickfrog-2
 rating: 2.0
 best: false

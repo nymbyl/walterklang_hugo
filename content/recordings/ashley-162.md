@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2005-03-26
 songs: []
-mixes: [ashley-mp3]
+mixes: [ashley-mp3-174]
 recordings: ashley-162
 rating: 4.0
 best: false

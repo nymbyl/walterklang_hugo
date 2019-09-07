@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2007-12-08
 songs: [cardriver]
-mixes: [cardriver-mp3]
+mixes: [cardriver-mp3-654]
 recordings: cardriver-595
 rating: 7.0
 best: false

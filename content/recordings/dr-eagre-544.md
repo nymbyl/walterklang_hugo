@@ -7,7 +7,7 @@ drums:	Rob
 guitar:	Chad
 day: 1995-03-14
 songs: [dr-eagre]
-mixes: [dr_eagre-mp3]
+mixes: [dr_eagre-mp3-599]
 recordings: dr-eagre-544
 rating: 8.0
 best: true

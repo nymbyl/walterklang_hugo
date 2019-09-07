@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2001-11-03
 songs: [stigma]
-mixes: [no56-mp3]
+mixes: [no56-mp3-233]
 recordings: number56-232
 rating: 5.0
 best: false

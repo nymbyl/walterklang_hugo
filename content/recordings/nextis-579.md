@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2007-10-06
 songs: [cash-it-in]
-mixes: [nextis-mp3]
+mixes: [nextis-mp3-638]
 recordings: nextis-579
 rating: 6.0
 best: false

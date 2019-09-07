@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2006-01-21
 songs: [eyelashes]
-mixes: [eyelashes-mp3]
+mixes: [eyelashes-mp3-347]
 recordings: eyelashes-337
 rating: 5.0
 best: false

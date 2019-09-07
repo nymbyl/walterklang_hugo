@@ -7,7 +7,7 @@ drums:	Rob
 guitar:	Chad
 day: 1995-07-13
 songs: [bamboo]
-mixes: [bamboo-mp3]
+mixes: [bamboo-mp3-610]
 recordings: bamboo-556
 rating: 7.0
 best: true

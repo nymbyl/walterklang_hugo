@@ -7,7 +7,7 @@ drums:	Ken
 guitar:	Chad
 day: 2008-04-19
 songs: [iota]
-mixes: [iota-mp3]
+mixes: [iota-mp3-710]
 recordings: iota-630
 rating: 7.0
 best: false

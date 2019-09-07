@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2009-01-03
 songs: [next-town-methane]
-mixes: [methane2-mp3]
+mixes: [methane2-mp3-841]
 recordings: methane-718
 rating: 7.0
 best: false

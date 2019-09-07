@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2004-08-28
 songs: []
-mixes: [loki-mp3]
+mixes: [loki-mp3-138]
 recordings: loki-130
 rating: 5.0
 best: false

@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2005-01-22
 songs: []
-mixes: [merrolate-mp3]
+mixes: [merrolate-mp3-205]
 recordings: merrolite-204
 rating: 5.0
 best: false

@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2003-08-09
 songs: []
-mixes: [chris-mp3]
+mixes: [chris-mp3-70]
 recordings: chris-roberts-29
 rating: 6.0
 best: false

@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2006-05-20
 songs: [scheme]
-mixes: [scheme-mp3]
+mixes: [scheme-mp3-380]
 recordings: sell-the-house-374
 rating: 7.0
 best: false

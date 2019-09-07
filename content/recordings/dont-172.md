@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2005-04-09
 songs: [dont]
-mixes: [dont_vocals-mp3,dont-mp3]
+mixes: [dont_vocals-mp3-487,dont-mp3-184]
 recordings: dont-172
 rating: 7.0
 best: true

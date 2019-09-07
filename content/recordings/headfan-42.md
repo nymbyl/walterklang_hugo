@@ -7,7 +7,7 @@ drums:	Rob
 guitar:	Chad
 day: 2003-11-01
 songs: []
-mixes: [headfan-mp3]
+mixes: [headfan-mp3-79]
 recordings: headfan-42
 rating: 3.0
 best: false

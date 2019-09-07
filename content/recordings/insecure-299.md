@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2002-07-06
 songs: [insecure]
-mixes: [insecure-mp3]
+mixes: [insecure-mp3-308]
 recordings: insecure-299
 rating: 7.0
 best: false

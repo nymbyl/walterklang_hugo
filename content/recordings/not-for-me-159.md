@@ -7,7 +7,7 @@ drums:	Brent
 guitar:	Chad
 day: 2005-03-19
 songs: []
-mixes: [not-for-me-mp3]
+mixes: [not-for-me-mp3-167]
 recordings: not-for-me-159
 rating: 7.0
 best: false

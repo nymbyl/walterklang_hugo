@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2006-05-13
 songs: [horemonger]
-mixes: [whoremonger-mp3]
+mixes: [whoremonger-mp3-378]
 recordings: whoremonger-368
 rating: 6.0
 best: false

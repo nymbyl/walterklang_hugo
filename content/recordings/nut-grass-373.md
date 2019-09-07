@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2006-05-20
 songs: [nut-grass]
-mixes: [nut-grass-mp3]
+mixes: [nut-grass-mp3-381]
 recordings: nut-grass-373
 rating: 7.0
 best: false

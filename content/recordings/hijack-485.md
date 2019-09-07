@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2007-04-14
 songs: [nematode]
-mixes: [nematid-mp3]
+mixes: [nematid-mp3-507]
 recordings: hijack-485
 rating: 7.0
 best: false

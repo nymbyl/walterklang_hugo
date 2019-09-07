@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2006-04-29
 songs: []
-mixes: [burp-mp3]
+mixes: [burp-mp3-363]
 recordings: burp-353
 rating: 3.0
 best: false

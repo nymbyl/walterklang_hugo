@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2002-03-30
 songs: []
-mixes: [lionsclaws-mp3]
+mixes: [lionsclaws-mp3-274]
 recordings: lions-claw-273
 rating: 4.0
 best: false

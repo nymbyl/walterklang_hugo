@@ -7,7 +7,7 @@ drums:	Rob
 guitar:	Chad
 day: 1995-07-13
 songs: [quicksand]
-mixes: [quicksand-mp3]
+mixes: [quicksand-mp3-618]
 recordings: quicksand-563
 rating: 9.0
 best: true

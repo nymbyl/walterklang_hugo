@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2002-01-12
 songs: [out-clubbin]
-mixes: [out-clubbing-mp3]
+mixes: [out-clubbing-mp3-257]
 recordings: out-clubbing-255
 rating: 7.0
 best: false

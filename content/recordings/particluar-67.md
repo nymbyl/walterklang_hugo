@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2004-02-28
 songs: [right-ur]
-mixes: [particular-mp3]
+mixes: [particular-mp3-15]
 recordings: particluar-67
 rating: 6.0
 best: false

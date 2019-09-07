@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2005-04-09
 songs: []
-mixes: [funding-mp3]
+mixes: [funding-mp3-182]
 recordings: low-on-funding-174
 rating: 3.0
 best: false

@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2005-03-19
 songs: []
-mixes: [iambic-mp3]
+mixes: [iambic-mp3-166]
 recordings: iambic-pentameter-158
 rating: 4.0
 best: false

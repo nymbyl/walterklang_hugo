@@ -7,7 +7,7 @@ drums:	Brent
 guitar:	Rob
 day: 2005-02-12
 songs: []
-mixes: [queezy-mp3]
+mixes: [queezy-mp3-192]
 recordings: queezy-188
 rating: 1.0
 best: false

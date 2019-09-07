@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2003-12-20
 songs: [ockhams-razor]
-mixes: [cutitup-mp3]
+mixes: [cutitup-mp3-133]
 recordings: cutitup-48
 rating: 6.0
 best: false

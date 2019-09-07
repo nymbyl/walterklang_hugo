@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2005-07-09
 songs: []
-mixes: [pall-vert-mp3]
+mixes: [pall-vert-mp3-217]
 recordings: pall-vert-216
 rating: 6.0
 best: false

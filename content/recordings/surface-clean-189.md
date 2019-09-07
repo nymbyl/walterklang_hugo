@@ -7,7 +7,7 @@ drums:	Brent
 guitar:	Chad
 day: 2005-02-12
 songs: []
-mixes: [surface-dry-mp3]
+mixes: [surface-dry-mp3-190]
 recordings: surface-clean-189
 rating: 3.0
 best: false

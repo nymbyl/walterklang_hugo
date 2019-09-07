@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2001-09-29
 songs: [texas-t]
-mixes: [texast-mp3]
+mixes: [texast-mp3-231]
 recordings: texast-230
 rating: 7.0
 best: false

@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2007-03-04
 songs: []
-mixes: [halfdoor2-mp3]
+mixes: [halfdoor2-mp3-490]
 recordings: half-door-471
 rating: 4.0
 best: false

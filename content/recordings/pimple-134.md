@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2004-10-09
 songs: []
-mixes: [pimple-mp3]
+mixes: [pimple-mp3-147]
 recordings: pimple-134
 rating: 5.0
 best: false

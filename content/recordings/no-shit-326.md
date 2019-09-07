@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2005-12-03
 songs: []
-mixes: [no_shit-mp3]
+mixes: [no_shit-mp3-337]
 recordings: no-shit-326
 rating: 3.0
 best: false

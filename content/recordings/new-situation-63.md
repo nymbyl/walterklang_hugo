@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	
 day: 2004-02-21
 songs: []
-mixes: [new-situation-mp3]
+mixes: [new-situation-mp3-10]
 recordings: new-situation-63
 rating: 6.0
 best: false

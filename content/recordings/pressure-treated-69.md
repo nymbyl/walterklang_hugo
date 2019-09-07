@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2004-02-28
 songs: [pressure-treated]
-mixes: [pressure-treated-mp3]
+mixes: [pressure-treated-mp3-16]
 recordings: pressure-treated-69
 rating: 6.0
 best: false

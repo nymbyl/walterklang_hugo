@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2006-08-26
 songs: []
-mixes: [lieutenant-mp3]
+mixes: [lieutenant-mp3-438]
 recordings: the-lieutenant-430
 rating: 5.0
 best: false

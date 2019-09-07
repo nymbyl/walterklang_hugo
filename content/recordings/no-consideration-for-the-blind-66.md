@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2004-02-28
 songs: []
-mixes: [for-the-blind-mp3]
+mixes: [for-the-blind-mp3-13]
 recordings: no-consideration-for-the-blind-66
 rating: 2.0
 best: false

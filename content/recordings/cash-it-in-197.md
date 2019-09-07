@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2005-01-29
 songs: [cash-it-in]
-mixes: [cash-it-in-mp3]
+mixes: [cash-it-in-mp3-201]
 recordings: cash-it-in-197
 rating: 6.0
 best: false

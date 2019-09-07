@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2003-08-09
 songs: [puzzles]
-mixes: [jumble-mp3]
+mixes: [jumble-mp3-71]
 recordings: jumble-30
 rating: 5.0
 best: true

@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2007-12-08
 songs: [stoli-rocks]
-mixes: [stoli-rocks-mp3]
+mixes: [stoli-rocks-mp3-658]
 recordings: stoli-rocks-599
 rating: 6.0
 best: false

@@ -7,7 +7,7 @@ drums:	Brent
 guitar:	Rob
 day: 2005-04-23
 songs: []
-mixes: [red-jacket-mp3]
+mixes: [red-jacket-mp3-212]
 recordings: red-jacket-210
 rating: 4.0
 best: false

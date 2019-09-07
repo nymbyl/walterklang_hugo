@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2006-03-18
 songs: [howard-has-one]
-mixes: [howard_has_one-mp3]
+mixes: [howard_has_one-mp3-353]
 recordings: howard-has-one-350
 rating: 6.0
 best: false

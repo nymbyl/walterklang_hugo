@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	
 day: 2007-01-06
 songs: [walk-the-course]
-mixes: [walk_the_course-mp3,herald2-mp3]
+mixes: [walk_the_course-mp3-488,herald2-mp3-470]
 recordings: herald-462
 rating: 7.0
 best: true

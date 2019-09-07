@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2002-05-04
 songs: [wore-out-my-foot]
-mixes: [foot-mp3]
+mixes: [foot-mp3-284]
 recordings: wore-out-my-foot-280
 rating: 7.0
 best: false

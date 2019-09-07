@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2008-07-26
 songs: []
-mixes: [attending-to-you-mp3]
+mixes: [attending-to-you-mp3-756]
 recordings: attending-to-you-667
 rating: 6.0
 best: false

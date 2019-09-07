@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2004-02-07
 songs: []
-mixes: [catchaser-mp3]
+mixes: [catchaser-mp3-3]
 recordings: cat-chaser-53
 rating: 5.0
 best: false

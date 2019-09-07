@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2004-07-31
 songs: [timberlawn]
-mixes: [timberlawn-edited-mp3]
+mixes: [timberlawn-edited-mp3-128]
 recordings: timberlawn-127
 rating: 5.0
 best: false

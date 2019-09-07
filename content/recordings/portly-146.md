@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2004-11-13
 songs: []
-mixes: [portly-mp3]
+mixes: [portly-mp3-152]
 recordings: portly-146
 rating: 3.0
 best: false

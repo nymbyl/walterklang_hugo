@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2001-12-29
 songs: [shadowboxing]
-mixes: [jeeze-mp3]
+mixes: [jeeze-mp3-244]
 recordings: jeeze-243
 rating: 7.0
 best: false

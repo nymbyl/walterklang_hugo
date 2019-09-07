@@ -7,7 +7,7 @@ drums:	Rob
 guitar:	Chad
 day: 1995-03-14
 songs: [invalid]
-mixes: [invalid-mp3]
+mixes: [invalid-mp3-602]
 recordings: invalid-547
 rating: 8.0
 best: true

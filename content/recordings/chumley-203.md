@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2005-01-22
 songs: []
-mixes: [chumley-mp3]
+mixes: [chumley-mp3-204]
 recordings: chumley-203
 rating: 2.0
 best: false

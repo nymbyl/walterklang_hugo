@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	
 day: 2002-03-02
 songs: [moral-is]
-mixes: [moralis-mp3]
+mixes: [moralis-mp3-269]
 recordings: the-moral-is-266
 rating: 6.0
 best: false

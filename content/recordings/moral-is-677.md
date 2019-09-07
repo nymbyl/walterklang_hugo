@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2008-08-16
 songs: [moral-is]
-mixes: [moral-is2-mp3]
+mixes: [moral-is2-mp3-766]
 recordings: moral-is-677
 rating: 9.0
 best: false

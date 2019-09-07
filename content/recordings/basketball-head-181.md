@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2005-02-19
 songs: [basketball-head]
-mixes: [basketball-head-mp3]
+mixes: [basketball-head-mp3-186]
 recordings: basketball-head-181
 rating: 6.0
 best: false

@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2006-08-26
 songs: [blue-gills]
-mixes: [blue-gills_vocals-mp3,blue-gills-mp3]
+mixes: [blue-gills_vocals-mp3-532,blue-gills-mp3-433]
 recordings: blue-gills-425
 rating: 8.0
 best: false

@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2005-01-29
 songs: [three-seas]
-mixes: [chicklet-mp3]
+mixes: [chicklet-mp3-200]
 recordings: chicklet-199
 rating: 6.0
 best: false

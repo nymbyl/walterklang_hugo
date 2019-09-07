@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2002-07-06
 songs: [shadowboxing]
-mixes: [shadowboxing-mp3]
+mixes: [shadowboxing-mp3-310]
 recordings: shadowboxing-301
 rating: 6.0
 best: false

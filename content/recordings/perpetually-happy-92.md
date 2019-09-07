@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2004-04-10
 songs: []
-mixes: [perpetually-happy-mp3]
+mixes: [perpetually-happy-mp3-30]
 recordings: perpetually-happy-92
 rating: 5.0
 best: false

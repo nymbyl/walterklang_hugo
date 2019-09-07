@@ -7,7 +7,7 @@ drums:	Brent
 guitar:	Rob
 day: 2005-02-12
 songs: []
-mixes: [glockenspiel-mp3]
+mixes: [glockenspiel-mp3-194]
 recordings: glockenspiel-185
 rating: 4.0
 best: false

@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2008-05-10
 songs: [iota]
-mixes: [iota-mp3]
+mixes: [iota-mp3-727]
 recordings: iota-643
 rating: 7.0
 best: false

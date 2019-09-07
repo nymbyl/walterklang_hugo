@@ -7,7 +7,7 @@ drums:
 guitar:	Rob
 day: 1991-08-25
 songs: [wash]
-mixes: [wash-mp3]
+mixes: [wash-mp3-585]
 recordings: wash-530
 rating: 9.0
 best: true

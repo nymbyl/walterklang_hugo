@@ -7,7 +7,7 @@ drums:	Rob
 guitar:	Chad
 day: 1994-11-28
 songs: [travelling-trousers]
-mixes: [travelling_trousers-mp3]
+mixes: [travelling_trousers-mp3-597]
 recordings: travelling-trousers-542
 rating: 8.0
 best: true

@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2004-10-16
 songs: []
-mixes: [harpoon-like-mp3]
+mixes: [harpoon-like-mp3-142]
 recordings: harpoon-like-139
 rating: 4.0
 best: false

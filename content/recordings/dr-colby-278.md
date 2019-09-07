@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2002-04-27
 songs: []
-mixes: [dr-mp3]
+mixes: [dr-mp3-282]
 recordings: dr-colby-278
 rating: 4.0
 best: false

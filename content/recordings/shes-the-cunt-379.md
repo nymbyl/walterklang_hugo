@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2006-05-27
 songs: []
-mixes: [shes-the-cunt-mp3]
+mixes: [shes-the-cunt-mp3-389]
 recordings: shes-the-cunt-379
 rating: 4.0
 best: false

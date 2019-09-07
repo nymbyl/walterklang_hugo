@@ -7,7 +7,7 @@ drums:	Brent
 guitar:	Chad
 day: 2005-03-19
 songs: []
-mixes: [sterpid-mp3]
+mixes: [sterpid-mp3-168]
 recordings: sterpid-160
 rating: 1.0
 best: false

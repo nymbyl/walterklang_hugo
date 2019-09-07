@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2006-12-09
 songs: [gamble]
-mixes: [gample-mp3]
+mixes: [gample-mp3-453]
 recordings: gamble-445
 rating: 7.0
 best: false

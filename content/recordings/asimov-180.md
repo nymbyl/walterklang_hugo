@@ -7,7 +7,7 @@ drums:	Brent
 guitar:	Rob
 day: 2005-02-19
 songs: []
-mixes: [asimov-mp3]
+mixes: [asimov-mp3-187]
 recordings: asimov-180
 rating: 5.0
 best: false

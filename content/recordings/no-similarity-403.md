@@ -7,7 +7,7 @@ drums:	Rob
 guitar:	Chad
 day: 2006-07-29
 songs: []
-mixes: [no-similarity-mp3]
+mixes: [no-similarity-mp3-414]
 recordings: no-similarity-403
 rating: 4.0
 best: false

@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2008-09-13
 songs: [blue-gills]
-mixes: [blue-gills2-mp3]
+mixes: [blue-gills2-mp3-786]
 recordings: blue-gills-690
 rating: 7.0
 best: false

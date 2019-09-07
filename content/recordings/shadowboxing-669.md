@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2008-08-02
 songs: [shadowboxing]
-mixes: [shadowboxing-mp3]
+mixes: [shadowboxing-mp3-758]
 recordings: shadowboxing-669
 rating: 7.0
 best: false

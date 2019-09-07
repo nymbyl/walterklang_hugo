@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2007-10-13
 songs: [sorry-no-refunds]
-mixes: [no-refunds-mp3]
+mixes: [no-refunds-mp3-641]
 recordings: no-refunds-582
 rating: 7.0
 best: false

@@ -7,7 +7,7 @@ drums:	Ken
 guitar:	Chad
 day: 2006-07-29
 songs: []
-mixes: [difference-mp3]
+mixes: [difference-mp3-412]
 recordings: difference-401
 rating: 3.0
 best: false

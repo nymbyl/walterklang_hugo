@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2002-03-30
 songs: []
-mixes: [89-mp3]
+mixes: [89-mp3-273]
 recordings: hows-89-sound-269
 rating: 7.0
 best: false

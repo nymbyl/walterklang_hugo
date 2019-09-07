@@ -7,7 +7,7 @@ drums:
 guitar:	Rob
 day: 1991-08-25
 songs: [daykeeper]
-mixes: [daykeeper-mp3]
+mixes: [daykeeper-mp3-577]
 recordings: daykeeper-522
 rating: 9.0
 best: true

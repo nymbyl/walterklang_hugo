@@ -7,7 +7,7 @@ drums:	Rob
 guitar:	Chad
 day: 1994-11-28
 songs: [beheaded]
-mixes: [beheaded-mp3]
+mixes: [beheaded-mp3-574]
 recordings: beheaded-519
 rating: 9.0
 best: true

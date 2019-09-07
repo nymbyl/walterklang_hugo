@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2006-12-16
 songs: [find-your-island]
-mixes: [find-your-island-mp3]
+mixes: [find-your-island-mp3-456]
 recordings: find-yer-island-448
 rating: 7.0
 best: false

@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2002-06-08
 songs: []
-mixes: [2-mp3]
+mixes: [2-mp3-297]
 recordings: creature-290
 rating: 4.0
 best: false

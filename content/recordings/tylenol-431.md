@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2006-08-26
 songs: [shadowboxing]
-mixes: [shadowboxing-mp3]
+mixes: [shadowboxing-mp3-439]
 recordings: tylenol-431
 rating: 4.0
 best: false

@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2003-08-09
 songs: []
-mixes: [chays-mp3]
+mixes: [chays-mp3-69]
 recordings: chays-ballad-28
 rating: 4.0
 best: false

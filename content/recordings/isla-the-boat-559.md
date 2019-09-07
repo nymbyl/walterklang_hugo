@@ -7,7 +7,7 @@ drums:	Rob
 guitar:	Chad
 day: 1995-07-13
 songs: [isla-the-boat]
-mixes: [isla_the_boat-mp3]
+mixes: [isla_the_boat-mp3-614]
 recordings: isla-the-boat-559
 rating: 8.0
 best: true

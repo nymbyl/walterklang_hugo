@@ -7,7 +7,7 @@ drums:	Brent
 guitar:	Chad
 day: 2005-08-27
 songs: []
-mixes: [harvesters-mp3]
+mixes: [harvesters-mp3-225]
 recordings: harvesters-224
 rating: 5.0
 best: false

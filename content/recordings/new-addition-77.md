@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2004-03-27
 songs: [katy-did]
-mixes: [additiuon-mumble-mp3,additiuon-mp3]
+mixes: [additiuon-mumble-mp3-135,additiuon-mp3-19]
 recordings: new-addition-77
 rating: 6.0
 best: false

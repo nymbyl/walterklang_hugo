@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2003-11-01
 songs: []
-mixes: [station-mp3]
+mixes: [station-mp3-82]
 recordings: station-45
 rating: 2.0
 best: false

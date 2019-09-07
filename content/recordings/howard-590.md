@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2007-11-10
 songs: [howard-has-one]
-mixes: [howard_has_one-mp3]
+mixes: [howard_has_one-mp3-649]
 recordings: howard-590
 rating: 6.0
 best: false

@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2007-07-28
 songs: [nematode]
-mixes: [nematode_vocals-mp3,nematode-mp3]
+mixes: [nematode_vocals-mp3-563,nematode-mp3-558]
 recordings: nematode-513
 rating: 6.0
 best: false

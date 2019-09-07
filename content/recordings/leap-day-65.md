@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2004-02-28
 songs: [leap-day]
-mixes: [leapday-mp3]
+mixes: [leapday-mp3-14]
 recordings: leap-day-65
 rating: 7.0
 best: false

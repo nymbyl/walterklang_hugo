@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2004-11-13
 songs: []
-mixes: [yclept-mp3]
+mixes: [yclept-mp3-150]
 recordings: yplept-john-148
 rating: 3.0
 best: false

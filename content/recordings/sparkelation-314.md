@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2005-10-22
 songs: []
-mixes: [sparkelation-mp3]
+mixes: [sparkelation-mp3-324]
 recordings: sparkelation-314
 rating: 2.0
 best: false

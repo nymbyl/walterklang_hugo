@@ -7,7 +7,7 @@ drums:	Rob
 guitar:	Chad
 day: 1995-03-14
 songs: [bicycle]
-mixes: [bicycle-mp3]
+mixes: [bicycle-mp3-575]
 recordings: bicycle-520
 rating: 9.0
 best: true

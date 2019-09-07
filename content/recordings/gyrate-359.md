@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Rob
 day: 2006-05-06
 songs: [dont]
-mixes: [dont-mp3]
+mixes: [dont-mp3-369]
 recordings: gyrate-359
 rating: 8.0
 best: false

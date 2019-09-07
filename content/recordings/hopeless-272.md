@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2002-03-30
 songs: [hopeless]
-mixes: [hopeless-mp3]
+mixes: [hopeless-mp3-272]
 recordings: hopeless-272
 rating: 7.0
 best: false

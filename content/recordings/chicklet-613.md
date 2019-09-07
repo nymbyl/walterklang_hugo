@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	Chad
 day: 2008-01-05
 songs: [three-seas]
-mixes: [chicklet-mp3]
+mixes: [chicklet-mp3-678]
 recordings: chicklet-613
 rating: 7.0
 best: false

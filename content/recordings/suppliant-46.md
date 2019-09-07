@@ -7,7 +7,7 @@ drums:	Mike
 guitar:	
 day: 2003-12-06
 songs: [blue-gills]
-mixes: [suppliant-mp3]
+mixes: [suppliant-mp3-1]
 recordings: suppliant-46
 rating: 5.0
 best: false
