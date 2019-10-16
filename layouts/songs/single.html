@@ -29,7 +29,11 @@
   <td>
     <a href="{{ .Permalink }}">{{ .Title }}</a>
   </td>
-  <td>{{ .Date.Format "2006-01-02" }}</td> 
+  <td>
+    <a href="/days/{{ .Params.Day }}">
+    {{ .Date.Format "2006-01-02" }}
+    </a>
+  </td> 
   <td>
 
 

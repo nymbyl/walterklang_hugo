@@ -28,7 +28,11 @@
 {{ with $related }}
 {{ range .ByDate.Reverse  }}
 <tr>
-   <td>{{ .Date.Format "2006-01-02" }}</td>
+   <td>
+        <a href="{{ .Permalink }}">
+           {{ .Date.Format "2006-01-02" }}
+        </a>
+   </td>
    </td> 
    <td>
 
