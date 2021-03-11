@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Walter Klang"
 googleAnalytics = "UA-1816333-2"
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [related]
 threshold = 50
 includeNewer = true

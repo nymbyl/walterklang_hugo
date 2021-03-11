@@ -2,8 +2,8 @@
 ---
 title: pismire_mixed.mp3
 vocals: false
-best: true
-definitive: true
+best: false
+definitive: false
 recordings: mister-pismire-74
 filename: pismire_mixed.mp3
 mixes: pismire_mixed-mp3-500

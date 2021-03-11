@@ -1,7 +1,7 @@
 
 ---
 title: Fast America-mumble.mp3
-vocals: false
+vocals: true
 best: false
 definitive: false
 recordings: fast-america-61
