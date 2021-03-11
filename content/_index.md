@@ -33,10 +33,12 @@ title: "Main Page"
       <li class="list-inline-item"><a href="/mp3/2008-04-12/all%20the%20world%20goes%20wrong/world_vocals.mp3">All the World Goes Wrong</a></li>
       <li class="list-inline-item"><a href="/mp3/2007-07-28/methane/NextTownMethane_vocals.mp3">Next Town Methane</a></li>
       <li class="list-inline-item"><a href="/mp3/2008-01-05/routine/routine2_vocals.mp3">Routine</a></li>
-      <li class="list-inline-item"><a href="/mp3/2008-10-25/flutter/flutter_vocals_harmony.mp3">Flutter</a></li>
-    </ol>
+      <li class="list-inline-item">
+        <a href="/mp3/2008-10-25/flutter/flutter_vocals_harmony.mp3">Flutter</a>
+      </li>
+  </ol>
     
-    <h4>2004-2007</h4>
+  <h4>2004-2007</h4>
     <ol class="list-inline">
       <li class="list-inline-item"><a href="/mp3/2007-06-02/call%20by%20nine/call%20by%20nine_vocals2.mp3">Call By Nine</a></li>
       <li class="list-inline-item"><a href="/mp3/2006-08-26/blue%20gills/blue%20gills_vocals.mp3">Blue Gills</a></li>
@@ -50,9 +52,9 @@ title: "Main Page"
       <li class="list-inline-item"><a href="/mp3/2004-05-01/hoil/hoil_vocals.mp3">Crazy Here</a></li>
       <li class="list-inline-item"><a href="/mp3/2007-03-31/term/iif_plain_vocals.mp3">If and Only If</a></li>
 
-    </ol>
+</ol>
  
-    <h4>2001-2003</h4>
+<h4>2001-2003</h4>
     <ol class="list-inline">
       <li class="list-inline-item"><a href="/mp3/2002-06-01/the%20ripping%20tree/tree_fixed.mp3">Ripping Tree</a></li>
       <li class="list-inline-item"><a href="/mp3/2003-09-26/venerable/venerable.mp3">Go Down Dying</a></li>
@@ -62,39 +64,38 @@ title: "Main Page"
       <li class="list-inline-item"><a href="/mp3/2003-07-05/pushing%20the%20rain/rain.mp3">Pushing the Rain</a></li>
       <li class="list-inline-item"><a href="/mp3/2003-07-05/fly/fly.mp3">Fly Me</a></li>
       <li class="list-inline-item"><a href="/mp3/2003-07-05/mother%27s%20table/mother%27s%20tabel.mp3">Ockham's Razor</a></li>
-    </ol>
+  </ol>
 
 
   <p><b>Note:</b> All music on this site is copyrighted to Lily Borne Publishing</p>
 
-    <h4>About</h4>
-    <p><b>Walter Klang</b> is a an obscure musical group with a small and unenthusiastic fanbase
+  <h4>About</h4>
+  <p><b>Walter Klang</b> is a an obscure musical group with a small and unenthusiastic fanbase
     that has been writing and recording music since 1991.
-    </p>
-    <p>
-    From 2001-2008 they recorded some music in Austin, Texas.
-    This site contains the music recorded during those sessions.
-    </p>
+  </p>
+    
+  <p>From 2001-2008 they recorded some music in Austin, Texas. This site contains the music 
+   recorded during those sessions.
+  </p>
 
-    <p><b>Walter Klang</b> consists of the following people:
+  <p><b>Walter Klang</b> consists of the following people:</p>
 
-    <ul>
-      <li>Chad Himmel (<i>guitar, bass, keyboard</i>)</li>
-      <li>Mike (<i>drums, percussion, keyboard</i>)</li>
-      <li>Rob Nelson (<i>bass, guitar, keyboard</i>)</li>
-    </ul>
+  <ul>
+    <li>Chad Himmel (<i>guitar, bass, keyboard</i>)</li>
+    <li>Mike (<i>drums, percussion, keyboard</i>)</li>
+    <li>Rob Nelson (<i>bass, guitar, keyboard</i>)</li>
+  </ul>
 
-    </p>
-    <p>In addition the following people have been known to play with the group:</p>
-    <ul>
+  <p>In addition the following people have been known to play with the group:</p>
+  <ul>
       <li>Will "Decibel" Burns</li>
       <li>Andy "Man of Science and Adventure" Laska</li>
       <li>Ken Nelson</li>
-    </ul>
+  </ul>
 
-    <p>It remains to be seen whether they will record more.  Rob Nelson continues to make music as
+  <p>It remains to be seen whether they will record more.  Rob Nelson continues to make music as
     <a href="http://kernramble.com">Kern Ramble</a>.
-    </p>
+  </p>
 
 
   <h5>Organization of Site</h5>
