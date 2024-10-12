@@ -93,10 +93,11 @@ title: "Main Page"
       <li>Ken Nelson</li>
   </ul>
 
-  <p>It remains to be seen whether they will record more.  Rob Nelson continues to make music as
+  <p>Rob Nelson continues to make music as
     <a href="http://kernramble.com">Kern Ramble</a>.
   </p>
 
+  <p>Chad Himmel is the inventor of the <a href="/makeshift">Makeshift Parallel Calendar</a></p>
 
   <h5>Organization of Site</h5>
   <p>Follow the tabs at the top of the page from left to right:</p>

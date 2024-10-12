@@ -8,5 +8,5 @@ recordings: mister-pismire-74
 filename: pismire_mixed.mp3
 mixes: pismire_mixed-mp3-500
 folder: 2002-05-18/mister pismire
-weight: 10
+weight: 2
 ---
